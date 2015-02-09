@@ -6,7 +6,7 @@
 * Second follow the tutorial from TBD.
 
 ## Todo List
--[ ] Editar Valores, descripcion
--[ ] Logo
--[ ] Imagen grande para la pag. about
--[ ] Layout Pagina Artist tipo: https://mademistakes.com/paperfaces/
+- [ ] Editar Valores, descripcion
+- [ ] Logo
+- [ ] Imagen grande para la pag. about
+- [ ] Layout Pagina Artist tipo: https://mademistakes.com/paperfaces/
